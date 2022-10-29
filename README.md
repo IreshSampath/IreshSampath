@@ -5,7 +5,7 @@
 <body>
 
 <!--<h1>Full Stack Game Developer</h1>-->
-<h2>Full Stack Unity Game Developer | Unreal | Web3 | Metaverse | NFT | 360°/ VR Content Creator</h2>
+<h2>Full Stack Unity Game Developer | C# | Unreal | Web3 | Metaverse | NFT | Multiplayer | 360°/ VR Content Creator</h2>
 <h3><a href="https://gameartgames.webs.com/" target="_blank">GameArt Games</a> | 
   <a href="http://travel360srilanka.com/" target="_blank">Travel 360 Sri Lanka</a> | 
   <a href="https://twitter.com/SeekerSeries1" target="_blank">Seeker: Origins |
