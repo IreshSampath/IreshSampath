@@ -8,11 +8,11 @@
 <h2>✨ Senior Software Engineer | XR / Game Developer | Full Stack Unity Developer | 360°/ VR Content Creator | C# | AR | VR | Unreal | Web3 | Multiplayer</h2>
 <h3><a href="https://gameartgames.webs.com/" target="_blank">GameArt Games</a> | 
   <a href="http://travel360srilanka.com/" target="_blank">Travel 360 Sri Lanka</a> | 
-  <a href="https://twitter.com/SeekerSeries1" target="_blank">Govnor (Old name -> Seeker: Origins) |
-  <a href="https://twitter.com/mindfulelopies" target="_blank">Mindful Elopies 
+  <a href="https://twitter.com/SeekerSeries1" target="_blank">Govnor (Seeker: Origins)</a> |
+  <a href="https://twitter.com/mindfulelopies" target="_blank">Mindful Elopies</a> 
   </h3>
 <p>- 
-  🔭 I’m currently working on LKSim as a Senior Software Engineer.<br>
+  🔭 I’m currently working on <b>LKSim</b> as a <b>Senior Software Engineer</b>.<br>
 - 🌱 I’m currently learning <b>Unreal 5</b> / <b>WebAR</b>.<br>
 - 👯 I’m currently enjoying creating <b>360°/ VR</b> contents.<br>
 - 🤔 I’m looking to collaborate on any kind of <b>Unity</b> project.<br>
