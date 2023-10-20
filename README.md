@@ -22,9 +22,21 @@
 - ⚡ Fun fact: 
   <a href="https://gameartgames.webs.com/" target="_blank">Fun games already that I've made. </a> & <a href="http://travel360srilanka.com/" target="_blank"> 360°/ VR Contents already that I've made.</a><br>
 </p>
-
+  
+<!-- Github Stats Card-->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=IreshSampath" />-->
+<!-- Top Languages Card-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreshSampath"/>
-<p><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge"/><img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/></p>
+  
+<p>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge"/>
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  
+</p>
 
 ---
 
