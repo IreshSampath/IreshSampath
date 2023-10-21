@@ -1,4 +1,4 @@
-<img src="/Banner.jpg" alt="banner"/>
+![logo](Banner.jpg "banner")
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -6,7 +6,7 @@
 
 ---
 
-<h3>✨ Senior Software Engineer | XR / Game Developer | Full Stack Unity Developer | 360°/ VR Content Creator | C# | AR | VR | Unreal | Web3 | Multiplayer</h3>
+#### ✨ Senior Software Engineer | XR / Game Developer | Full Stack Unity Developer | 360°/ VR Content Creator | C# | AR | VR | Unreal | Web3 | Multiplayer
   
 <p>- 
   🔭 I’m currently working on <b>LKSim</b> as a <b>Senior Software Engineer</b>.<br>
@@ -54,19 +54,21 @@
 
 ---
 
-## 🌐 Travel 360 Sri Lanka
+#### 🌐 Travel 360 Sri Lanka
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=GoogleChrome&logoColor=white)](http://travel360srilanka.com/)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UC1FtZsV1aRRJKwFYLCTKlDg?sub_confirmation=1)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Travel360SriLanka)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/travel360srilanka/)
 
-## 🌐 GameArt Games
+[![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UC1FtZsV1aRRJKwFYLCTKlDg)](https://www.youtube.com/channel/UC1FtZsV1aRRJKwFYLCTKlDg)
+
+#### 🌐 GameArt Games
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://gameartgames.webs.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/GameArtGame)
 
-## 🌐 Govnor (Seeker: Origins)
+#### 🌐 Govnor (Seeker: Origins)
 <!--<h4> <a href="https://twitter.com/SeekerSeries1" target="_blank">🌐 Govnor (Seeker: Origins) </a> | <a href="https://twitter.com/mindfulelopies" target="_blank">🌐 Mindful Elopies </a> </h4>-->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SeekerSeries1)
 
-## 🌐 Mindful Elopies
+#### 🌐 Mindful Elopies
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mindfulelopies)
