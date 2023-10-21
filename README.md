@@ -1,15 +1,13 @@
+<img src="/Banner.jpg" alt="banner"/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### Hi there 👋 I'm Iresh Sampath
 
 ---
 
-<!DOCTYPE html>
-<html>
-<body>  
-
 <h3>✨ Senior Software Engineer | XR / Game Developer | Full Stack Unity Developer | 360°/ VR Content Creator | C# | AR | VR | Unreal | Web3 | Multiplayer</h3>
   
-<img src="/Banner.jpg" alt="banner"/>
-
 <p>- 
   🔭 I’m currently working on <b>LKSim</b> as a <b>Senior Software Engineer</b>.<br>
 - 🌱 I’m currently learning <b>Unreal 5</b> / <b>WebAR</b>.<br>
@@ -22,6 +20,7 @@
   <a href="https://gameartgames.webs.com/" target="_blank">Fun games already that I've made. </a> & <a href="http://travel360srilanka.com/" target="_blank"> 360°/ VR Contents already that I've made.</a><br>
 </p>
 
+<!-- Social Stats -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=Files&logoColor=white)](https://ireshsampath.portfoliobox.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IreshSampath/)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/IreshSampath/)
@@ -30,11 +29,14 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94718125123)
 [![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ireshsampath@gmail.com)
 
-<!-- Github Stats Card-->
+<!-- Github Stats -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=IreshSampath" />-->
-<!-- Top Languages Card-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreshSampath"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreshSampath"/>-->
+<!--![](https://github-readme-stats.vercel.app/api?username=IreshSampath&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=IreshSampath&theme=radical&hide_border=false)<br/>-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IreshSampath&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!-- Tech Stats -->
 ![Oculus](https://img.shields.io/static/v1?style=for-the-badge&message=Oculus&color=1C1E20&logo=Oculus&logoColor=FFFFFF&label=)
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
@@ -68,6 +70,3 @@
 
 ## 🌐 Mindful Elopies
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mindfulelopies)
-
-</body>
-</html>
