@@ -42,6 +42,8 @@
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+![Blogger](https://img.shields.io/static/v1?style=for-the-badge&message=Blogger&color=FF5722&logo=Blogger&logoColor=FFFFFF&label=)
+![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,6 +53,8 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=)
+
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
 ---
 
